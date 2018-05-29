@@ -1,0 +1,15 @@
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\bin\Debug\MP3PROJ.exe.config
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\bin\Debug\MP3PROJ.exe
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\bin\Debug\MP3PROJ.pdb
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ.csprojAssemblyReference.cache
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MainWindow.g.cs
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\App.g.cs
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ_MarkupCompile.cache
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ_MarkupCompile.lref
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MainWindow.baml
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ.g.resources
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ.Properties.Resources.resources
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ.csproj.GenerateResource.cache
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ.csproj.CoreCompileInputs.cache
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ.exe
+C:\Users\beryu\OneDrive\Desktop\PEnvCourseWrok\MP3PROJ\MP3PROJ\obj\Debug\MP3PROJ.pdb
